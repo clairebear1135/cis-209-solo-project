@@ -8,7 +8,7 @@ Nestled in the heart of Muscle Shoals, Alabama, Salford Bakery has been delighti
 
 
 ### Wireframe
-
+![Wireframe](https://github.com/clairebear1135/cis-209-solo-project/blob/main/salfordBakeryWireframe.png?raw=true)
 
 ### System Requirements
 - [ ] Implement all pictures provided by business
