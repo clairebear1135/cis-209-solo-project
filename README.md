@@ -17,3 +17,8 @@ Nestled in the heart of Muscle Shoals, Alabama, Salford Bakery has been delighti
 - [ ] Freshness guaranteed & favorite selections
 
 ### Technical Requirements
+- This website will primarily be built using HTML and CSS.
+- JavaScript may be used for simple interactive features.
+- The project will be hosted using GitHub Pages [link].
+- No external APIs will be required.
+- All work will be maintained and version-controlled through GitHub
