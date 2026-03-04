@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #EBAA87
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.orderOnline {
+    color: white;
+}
+
+.foundationOfFreshness {
+    color: white;
+}
