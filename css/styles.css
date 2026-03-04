@@ -9,18 +9,25 @@ nav {
 }
 
 .orderOnline {
-    color: white;
-}
-
-.foundationOfFreshness {
-    color: white;
-}
-
-.orderOnline {
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   gap: 20px;
   padding: 20px;
+}
+
+.orderOnline {
+  display: flex;
+  gap: 20px;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.foundationOfFreshness {
+    color: white;
 }
