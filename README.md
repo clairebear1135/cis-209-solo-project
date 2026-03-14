@@ -11,10 +11,10 @@ Nestled in the heart of Muscle Shoals, Alabama, Salford Bakery has been delighti
 ![Wireframe](https://github.com/clairebear1135/cis-209-solo-project/blob/main/imgs/salfordBakeryWireframe.png?raw=true)
 
 ### System Requirements
-- [ ] Implement all pictures provided by business
-- [ ] Ensure that aesthetic follows established brand image
-- [ ] Products page
-- [ ] Freshness guaranteed & favorite selections
+- [x] Implement all pictures provided by business
+- [x] Ensure that aesthetic follows established brand image
+- [x] Products page
+- [x] Freshness guaranteed & celebrities mentioned
 
 ### Technical Requirements
 - This website will primarily be built using HTML and CSS.
